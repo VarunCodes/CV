@@ -1,13 +1,11 @@
 # VARUN MADHUKARA
 
-<p align="center">
-  <a href="#skills">Skills</a> |
-  <a href="#projects">Projects</a> |
-  <a href="#skills">Interests</a> |
-  <a href="#education">Education</a> |
-  <a href="#interests">Interests</a> |
-  <br><br>
-</p>
+<a href="#projects">Projects</a> |
+<a href="#skills">Skills</a> |
+<a href="#skills">Interests</a> |
+<a href="#education">Education</a> |
+<a href="#interests">Interests</a>
+<br><br>
 
 Web dev with an interest in all things tech and blockchain related, starting out an exciting journey in Development. As a creatively minded and proactive learner, I'm seeking to build something cool and helping people along the way.
 
@@ -32,7 +30,7 @@ Web dev with an interest in all things tech and blockchain related, starting out
 
 ## Education
 
-# November 2017 - February 2018
+*November 2017 - February 2018*
 Makers Academy
 
 ## Interests
