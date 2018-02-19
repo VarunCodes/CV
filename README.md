@@ -4,11 +4,11 @@
 <a href="#skills">SKILLS</a> |
 <a href="#skills">INTERESTS</a> |
 <a href="#education">EDUCATION</a> |
-<a href="#interests">INTERESTS</a>
+<a href="#interests">INTERESTS</a> |
 <a hred="#networks">NETWORKS</a>
 <br><br>
 
-Web dev with an interest in all things tech and blockchain related, starting out an exciting journey in Development. As a creatively minded and proactive learner, I'm seeking to build something cool and helping people along the way.
+Web dev with an interest in all things tech and blockchain related, beginning an exciting journey in Development. As a creatively minded and proactive learner, I'm seeking to build something cool and help people out.
 
 ## Projects
 | Project | Summary | Technologies | Testing
@@ -16,18 +16,19 @@ Web dev with an interest in all things tech and blockchain related, starting out
 | Airport | One of my very first challenges at Makers, which shows my ability to refactor code and solve a problem with articulate steps. | Ruby | RSpec|
 | Yelp | Group project to recreate Yelp over the course of a week, as our first entry point into the Rails framework. | Ruby on Rails | RSpec
 | Strepkills | A fun one-week group project to build a multiplayer game which can be played through the user's browser. | Redis, WebSockets, Rails, Postgres | RSpec |
-| Swapaway | Learning a brand new stack (MERN) while creating an item trading platform for users to barter and exchange item trades. | React, Node, Express, MongoDB | Jest, Enzyme, Chai, Mocha
+| Swapaway | Learning a brand new stack (MERN) while creating an item trading platform for users to barter and arrange item exchanges. | React, Node, Express, MongoDB | Jest, Enzyme, Chai, Mocha
 
 ## Skills
 
 #### Communication
-  I am a clear communicator and take XP values to heart when interacting with team members and my pair programmers.
+As a clear communicator I have taken XP values to heart when interacting with my group members and pair programmers, and I respond positively to feedback from peers. I am confident when suggesting new approaches while at the same time being empathetic to the dynamics of the group.
 
 #### Competitive
-  I believe that looking to improve and pick up new skills is integral to being a developer, and I'm open to working with people with different skillsets as it provides us new opportunities to learn.
+I believe that looking to improve and being hungry to pick up new skills is integral to move forward as a developer, and throughout my time at Makers I've quickly grasped new concepts and incorporated them into my skill set. I like inheriting responsibility and seeing how far I can go in a given amount of time.
 
-#### Proactive/independent learner
-  Throughout my course at Makers I've eagerly taken on new concepts and incorporate them to my skill-set.
+#### Team player
+
+I'm eager to work with people with different skillsets as it provides us valuable opportunities to learn, as well as being empathetic to accommodate for my pair partner's or team member's learning.
 
 ## Education
 
@@ -36,21 +37,19 @@ Web dev with an interest in all things tech and blockchain related, starting out
 #### Makers Academy
 A highly selective 16 week bootcamp based in London, with a 10% acceptance rate and a focus on software craftsmanship and "coding the right way".
 * Learning Agile, SOLID and XP practices with a challenging curriculum
-* A TDD approach which encourages pair programming and problem solving
-* Focus on refactoring with DRY principles and making elegant, maintainable code
+* TDD approach which encourages pair programming and problem solving
+* Focus on refactoring with DRY principles and crafting elegant, maintainable code
 * Ruby, Rails, JavaScript, Sinatra, PostgreSQL
 
 ## Interests
 * I'm an avid reader of philosophy and surrounding literature, and I enjoy learning through debate.
 * As a fan of competitive games sports, my favourites include badminton, athletics and bowling.
-* Travelling through London and exploring exciting and niche Meetups. 
+* Travelling through London and exploring exciting and niche Meetups.
 
 ## Networks
 
 [![github](https://raw.githubusercontent.com/VarunCodes/CV/master/icons/if_linked_in_online_social_media_734393.png)][1]
-[![github](https://raw.githubusercontent.com/VarunCodes/CV/master/icons/if_online_social_media_facebook_734386.png)][2]
-[![github](https://raw.githubusercontent.com/VarunCodes/CV/master/icons/if_twitter_online_social_media_734367.png)][3]
-___
+[![github](https://raw.githubusercontent.com/VarunCodes/CV/master/icons/if_twitter_online_social_media_734367.png)][2]
+
 [1]: https://www.linkedin.com/in/varun-madhukara-45567b157/
-[2]: https://www.facebook.com/varun.madhukara.1
-[3]: https://twitter.com/varunhimself
+[2]: https://twitter.com/varunhimself
