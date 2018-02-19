@@ -1,10 +1,11 @@
 # VARUN MADHUKARA
 
-<a href="#projects">Projects</a> |
-<a href="#skills">Skills</a> |
-<a href="#skills">Interests</a> |
-<a href="#education">Education</a> |
-<a href="#interests">Interests</a>
+<a href="#projects">PROJECTS</a> |
+<a href="#skills">SKILLS</a> |
+<a href="#skills">INTERESTS</a> |
+<a href="#education">EDUCATION</a> |
+<a href="#interests">INTERESTS</a>
+<a hred="#networks">NETWORKS</a>
 <br><br>
 
 Web dev with an interest in all things tech and blockchain related, starting out an exciting journey in Development. As a creatively minded and proactive learner, I'm seeking to build something cool and helping people along the way.
@@ -31,7 +32,25 @@ Web dev with an interest in all things tech and blockchain related, starting out
 ## Education
 
 *November 2017 - February 2018*
-Makers Academy
+
+#### Makers Academy
+A highly selective 16 week bootcamp based in London, with a 10% acceptance rate and a focus on software craftsmanship and "coding the right way".
+* Learning Agile, SOLID and XP practices with a challenging curriculum
+* A TDD approach which encourages pair programming and problem solving
+* Focus on refactoring with DRY principles and making elegant, maintainable code
+* Ruby, Rails, JavaScript, Sinatra, PostgreSQL
 
 ## Interests
-I'm an avid reader of philosophy, and I enjoy competitive games like badminton and bowling.
+* I'm an avid reader of philosophy and surrounding literature, and I enjoy learning through debate.
+* As a fan of competitive games sports, my favourites include badminton, athletics and bowling.
+* Travelling through London and exploring exciting and niche Meetups. 
+
+## Networks
+
+[![github](https://raw.githubusercontent.com/VarunCodes/CV/master/icons/if_linked_in_online_social_media_734393.png)][1]
+[![github](https://raw.githubusercontent.com/VarunCodes/CV/master/icons/if_online_social_media_facebook_734386.png)][2]
+[![github](https://raw.githubusercontent.com/VarunCodes/CV/master/icons/if_twitter_online_social_media_734367.png)][3]
+___
+[1]: https://www.linkedin.com/in/varun-madhukara-45567b157/
+[2]: https://www.facebook.com/varun.madhukara.1
+[3]: https://twitter.com/varunhimself
