@@ -5,7 +5,7 @@
 <a href="#skills">INTERESTS</a> |
 <a href="#education">EDUCATION</a> |
 <a href="#interests">INTERESTS</a> |
-<a hred="#networks">NETWORKS</a>
+<a href="#networks">NETWORKS</a>
 <br><br>
 
 Web dev with an interest in all things tech and blockchain related, beginning an exciting journey in Development. As a creatively minded and proactive learner, I'm seeking to build something cool and help people out.
@@ -13,10 +13,10 @@ Web dev with an interest in all things tech and blockchain related, beginning an
 ## Projects
 | Project | Summary | Technologies | Testing
 | ------ | ------ |  ------ |  ------ |
-| Airport | One of my very first challenges at Makers, which shows my ability to refactor code and solve a problem with articulate steps. | Ruby | RSpec|
-| Yelp | Group project to recreate Yelp over the course of a week, as our first entry point into the Rails framework. | Ruby on Rails | RSpec
-| Strepkills | A fun one-week group project to build a multiplayer game which can be played through the user's browser. | Redis, WebSockets, Rails, Postgres | RSpec |
-| Swapaway | Learning a brand new stack (MERN) while creating an item trading platform for users to barter and arrange item exchanges. | React, Node, Express, MongoDB | Jest, Enzyme, Chai, Mocha
+| Airport ([GitHub](https://github.com/VarunCodes/airport_challenge))| One of my very first challenges at Makers, which shows my ability to refactor code and solve a problem with articulate steps. | Ruby | RSpec|
+| Yelp ([GitHub](https://github.com/VarunCodes/rails-yelp))| Group project to recreate Yelp over the course of a week, as our first entry point into the Rails framework. | Ruby on Rails | RSpec
+| Strepkills ([GitHub](https://github.com/VarunCodes/mmog))| A fun one-week group project to build a multiplayer game which can be played through the user's browser. | Redis, WebSockets, Rails, Postgres | RSpec |
+| Swapaway ([GitHub](https://github.com/Mnargh/Swapaway))| Learning a brand new stack (MERN) while creating an item trading platform for users to barter and arrange item exchanges. | React, Node, Express, MongoDB | Jest, Enzyme, Chai, Mocha
 
 ## Skills
 
