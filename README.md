@@ -2,7 +2,6 @@
 
 <a href="#projects">PROJECTS</a> |
 <a href="#skills">SKILLS</a> |
-<a href="#skills">INTERESTS</a> |
 <a href="#education">EDUCATION</a> |
 <a href="#interests">INTERESTS</a> |
 <a href="#networks">NETWORKS</a>
@@ -24,7 +23,7 @@ Web dev with an interest in all things tech and blockchain related, beginning an
 As a clear communicator I have taken XP values to heart when interacting with my group members and pair programmers, and I respond positively to feedback from peers. I am confident when suggesting new approaches while at the same time being empathetic to the dynamics of the group.
 
 #### Competitive
-I believe that looking to improve and being hungry to pick up new skills is integral to move forward as a developer, and throughout my time at Makers I've quickly grasped new concepts and incorporated them into my skill set. I like inheriting responsibility and seeing how far I can go in a given amount of time.
+I believe that striving to improve and being hungry to pick up new skills is integral to move forward as a developer, and throughout my time at Makers I've quickly grasped new concepts and incorporated them into my skill set. I like inheriting responsibility and pushing to see how far I can go in a given amount of time.
 
 #### Team player
 
@@ -43,7 +42,7 @@ A highly selective 16 week bootcamp based in London, with a 10% acceptance rate 
 
 ## Interests
 * I'm an avid reader of philosophy and surrounding literature, and I enjoy learning through debate.
-* As a fan of competitive games sports, my favourites include badminton, athletics and bowling.
+* As a fan of competitive sports my favourites include badminton, athletics and bowling.
 * Travelling through London and exploring exciting and niche Meetups.
 
 ## Networks
